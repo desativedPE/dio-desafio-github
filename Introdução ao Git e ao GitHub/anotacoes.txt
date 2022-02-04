@@ -1,3 +1,7 @@
-Link para download do Git: https://git-scm.com/downloads
+Link | Download do Git: 
+https://git-scm.com/downloads
 
-O Git Bash é um terminal extendido para utilizar o Git.
+Link | Aprendendo como clonar um repositório:
+https://docs.github.com/pt/repositories/creating-and-managing-repositories/cloning-a-repository
+
+
